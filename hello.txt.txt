@@ -1,2 +1,3 @@
 dhanurithanyaa s
-hello world
+int a=10
+
